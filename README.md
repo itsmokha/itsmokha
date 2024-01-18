@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate data scientist living in UAE</h3>
+<h3 align="center">A passionate data scientist living in UAE🇦🇪!</h3>
 
 - 🌱 I’m currently learning **Hadoop, Hive, Big Data Engineering and Tableau**
 
