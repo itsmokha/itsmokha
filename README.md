@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate data scientist living in UAE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmokha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmokha" /> </p>
-
 - 🌱 I’m currently learning **Hadoop, Hive, Big Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://itsmokha.github.io/](https://itsmokha.github.io/)
