@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Hadoop, Hive, Big Data Engineering and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://itsmokha.github.io/](https://itsmokha.github.io/)
+- 👨‍💻 All of my projects are available at [https://itsmokha.co/](https://itsmokha.github.io/)
 
 - 💬 Ask me about **Python, Data Analysis and Data Visualization**
 
