@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Data Analysis and Data Visualization**
 
-- 📫 How to reach me **mkhan0138@gmail.com**
+- 📫 How to reach me **omar@itsmokha.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
