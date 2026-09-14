@@ -1,20 +1,46 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">A passionate data scientist living in UAE🇦🇪!</h3>
+# Mohammed Omar Khan (Omar) · AI Engineer 🇦🇪
 
-- 🌱 I’m currently learning **Hadoop, Hive, Big Data Engineering and Tableau**
+Systems Engineer deployed onsite at a UAE government agency, running their OpenShift, Linux, Solaris, and enterprise storage estate in a largely air-gapped environment. On the AI side, I build and run a fully local GenAI stack on self-managed Kubernetes.
 
-- 👨‍💻 All of my projects are available at [https://itsmokha.com/](https://itsmokha.github.io/)
+---
 
-- 💬 Ask me about **Python, Data Analysis and Data Visualization**
+## 🤖 AI / LLM Stack
 
-- 📫 How to reach me **omar@itsmokha.com**
+- **Model serving:** vLLM · TGI · Ollama
+- **Models:** Qwen3.5 · DeepSeek · LLaMA
+- **Quantization:** AWQ · GPTQ · GGUF
+- **RAG:** LangChain · Chroma · nomic-embed-text
+- **Agents:** LangGraph (stateful workflows, tool selection, conditional edges, handoffs)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-omarkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-omarkhan/" height="30" width="40" /></a>
-</p>
+## 🛠️ Infrastructure Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg " alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a></p> 
+- **Orchestration:** Kubernetes · Docker · Red Hat OpenShift · Nutanix
+- **Observability:** Elasticsearch · Grafana · Bonsai
+- **IaC & CI/CD:** Terraform · Ansible · GitHub Actions · GitLab CI
+- **OS:** Linux (RHEL · Rocky · Ubuntu · Debian) · Solaris
+- **Storage:** Pure Storage · NetApp NAS · Oracle ZFS · TrueNAS
+- **Languages:** Python · Bash · SQL
 
+---
 
+## 🔨 What I'm working on
+
+- Local LLM serving stack — vLLM/TGI/Ollama on Kubernetes with quantized open-weight models
+- LangGraph agent orchestration + RAG pipeline over a personal Obsidian knowledge base
+
+---
+
+## 📌 Pinned projects
+
+| Project | Description |
+|---|---|
+| [Advertisement Detection](https://github.com/itsmokha/Advertisement-detection-using-machine-learning) | NLP classifier on 1M+ row URL dataset · 80% accuracy · TensorFlow / XGBoost / LightGBM |
+| [Amazon Sentiment Analysis](https://github.com/itsmokha/Amazon-Sentiment-Analysis) | 227k reviews · 90% accuracy · NLP + neural networks |
+| [Twitter Sentiment Analysis](https://github.com/itsmokha/Twitter-Sentiment-Analysis) | 10k+ tweets · 92% accuracy · NLP + ensemble methods |
+| [vscan](https://github.com/hwtechclub/virus-scanner) | Python security scanner · multi-API · published on PyPi |
+
+---
+
+## 📫 Get in touch
+
+[omar@itsmokha.com](mailto:omar@itsmokha.com) · [itsmokha.com](https://itsmokha.com) · [linkedin.com/in/m-omarkhan](https://linkedin.com/in/m-omarkhan)
