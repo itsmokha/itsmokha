@@ -1,6 +1,6 @@
 # Mohammed Omar Khan (Omar) · AI Engineer 🇦🇪
 
-Systems Engineer deployed onsite at a UAE government agency, running their OpenShift, Linux, Solaris, and enterprise storage estate in a largely air-gapped environment. On the AI side, I build and run a fully local GenAI stack on self-managed Kubernetes.
+Systems Engineer deployed onsite at a UAE government agency, running their OpenShift, Linux, Solaris, and enterprise storage environment in a largely air-gapped environment. On the AI side, I build and run a fully local GenAI stack on self-managed Kubernetes.
 
 ---
 
