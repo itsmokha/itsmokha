@@ -15,10 +15,9 @@ Systems Engineer deployed onsite at a UAE government agency, running their OpenS
 ## 🛠️ Infrastructure Stack
 
 - **Orchestration:** Kubernetes · Docker · Red Hat OpenShift · Nutanix
-- **Observability:** Elasticsearch · Grafana · Bonsai
-- **IaC & CI/CD:** Terraform · Ansible · GitHub Actions · GitLab CI
-- **OS:** Linux (RHEL · Rocky · Ubuntu · Debian) · Solaris
-- **Storage:** Pure Storage · NetApp NAS · Oracle ZFS · TrueNAS
+- **Observability:** Elasticsearch · Grafana 
+- **IaC & CI/CD:** Terraform · Ansible · GitHub Actions 
+- **OS:** Linux · Solaris
 - **Languages:** Python · Bash · SQL
 
 ---
